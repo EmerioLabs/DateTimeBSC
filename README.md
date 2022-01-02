@@ -16,9 +16,6 @@ Contract Deployments:
 - Mainnet: [`0x4b037163eb26dc235f3b42928ea33af0992d4de7`](https://bscscan.com/address/0x4b037163eb26dc235f3b42928ea33af0992d4de7)
 - Testnet: [`0x4b037163eb26dc235f3b42928ea33af0992d4de7`](https://testnet.bscscan.com/address/0x4b037163eb26Dc235F3b42928eA33af0992D4de7)
 
-Verify source code on mainnet at https://bscscan.com/address/0x4b037163eb26dc235f3b42928ea33af0992d4de7#code
-Verify source code on testnet at https://testnet.bscscan.com/address/0x4b037163eb26Dc235F3b42928eA33af0992D4de7
-
 ### DateTime struct
 
 The following **struct** is used to represent date-time object.
