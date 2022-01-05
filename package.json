@@ -1,0 +1,13 @@
+{ "name": "datetime-bsc",
+  "version": "1.0.0",
+  "private": true,
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1",
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "truffle-plugin-verify": "^0.5.20"
+  },
+  "devDependencies": {
+    "standard": "^16.0.4"
+  }
+}
